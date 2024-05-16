@@ -26,5 +26,6 @@ React        █████░░░░░░   50%
 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/zandile-mgutshini)
 - [Portfolio](https://zandi-mgutshini.github.io/my-cv-website/)
+- [Download My CV](https://github.com/zandi-mgutshini/zandi-mgutshini/files/15328034/Zandile.Mgutshini.Public.CV.pdf)
 
 This GitHub is not just a repository of my projects, but a reflection of my journey through tech. Every project here tells a story of learning, challenges, and growth. Thanks for stopping by!
