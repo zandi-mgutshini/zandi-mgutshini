@@ -1,4 +1,4 @@
-### Hi there, I'm Zandi Mgutshini 👋
+### Hi there, I'm Zandi Mgutshini 👋🏾
 
 #### Full Stack Engineer | Management Studies Graduate | Data Enthusiast
 
