@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Cape Town-based aspiring software engineer c
 ```text
 Java         █████████░░   90%
 Python       ████████░░░   80%
-HTML/CSS     ██████████   100%
+HTML/CSS     ███████████  100%
 JavaScript   ████████░░░   80%
 MongoDB      ██████░░░░░   60%
 Node.js      ██████░░░░░   60%
