@@ -9,12 +9,12 @@ Welcome to my GitHub profile! I'm a Cape Town-based aspiring software engineer c
 - 🔭 I’m working on **portfolio projects** that showcase my full stack development capabilities.
 - 🤔 I’m exploring **data science** as I am fascinated by the insights that data can provide in decision-making processes.
 - 💬 Ask me about **web development, project management, and transitioning from commerce to tech**.
-- 📫 How to reach me: [Email me](mailto:scalier-places.02@icloud.com)
-- ⚡ Fun fact: I led the branding and marketing initiatives for a start-up restaurant, demonstrating my ability to transform vision into reality on a tight budget.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zandile-mgutshini)
+- ⚡ Fun fact: I am currently transforming an civil engineering firm's quality management system from pen and paper to an app-based solution that works online and offline. 
 
 **Technical Skills:**
 ```text
-Java         █████████░░   90%
+Java         ██████████░   95%
 Python       ████████░░░   80%
 HTML/CSS     ███████████  100%
 JavaScript   ████████░░░   80%
@@ -28,4 +28,4 @@ React        █████░░░░░░   50%
 - [Portfolio](https://zandi-mgutshini.github.io/my-cv-website/)
 - [Download My CV](https://github.com/zandi-mgutshini/zandi-mgutshini/files/15328034/Zandile.Mgutshini.Public.CV.pdf)
 
-This GitHub is not just a repository of my projects, but a reflection of my journey through tech. Every project here tells a story of learning, challenges, and growth. Thanks for stopping by!
+This GitHub is a partial reflection of my journey through tech. Every project here tells a story of learning, challenges, and growth. Thanks for stopping by!
